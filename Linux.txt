@@ -1,0 +1,3 @@
+COmmands,
+
+cd, ls, cp, mv, rm 
